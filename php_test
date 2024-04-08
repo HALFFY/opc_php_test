@@ -1,7 +1,10 @@
-<body bgcolor='red'>
-<?php
-
-print("Welcome to LW !!");
-
-?>
+<!DOCTYPE html>
+<html>
 <body>
+
+<?php
+echo "My first PHP script!";
+?> 
+
+</body>
+</html>
