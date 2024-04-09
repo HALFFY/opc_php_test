@@ -3,8 +3,9 @@
 <body>
 
 <?php
-echo "My first PHP script!";
-echo " test completed_V1";
+echo "My first PHP script!"; /n
+echo " test completed_V1"; /n
+echo "testedV2";
 ?> 
 
 </body>
